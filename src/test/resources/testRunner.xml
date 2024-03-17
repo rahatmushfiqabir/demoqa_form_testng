@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<suite name="Orange HRM portal automation">
+<suite name="DemoQA Form automation">
     <test name="Create User">
         <classes>
             <class name="FormTestRunner"></class>
